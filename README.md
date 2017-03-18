@@ -1,14 +1,54 @@
-# PHP Hello World Sample
+# You Can Hire Me
+          /********************************************************************************/
+                                  5th semester Web mini Project.
+          /********************************************************************************/
+          
+          /**************************** What is this **************************************/
 
-This application demonstrates a simple, reusable PHP web application.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/php-helloworld)
+"You Can Hire Me" is a web base mini project which shows how much student has 
+learnt in their semester.
+        
 
-## Run the app locally
+       /**********************************************************************************/
+        
+        
+        
+        
+        /******************************      IDEA      ************************************/
+The idea of the project is that a user (who is job seeker) will register his/her 
+self, with the requirements.
+Then when a company or individual need an employee, they can search through the
+database their desired person with country, city, or job requirements. Once they
+find the person then they can contact the person.
+       
+       
+       
+       
+       /**********************************************************************************/
+        
+        
+        /********************************   Tools and Technologies    *********************/
+        
+        
+Editor: Bracket
 
-1. Download and extract [PHP][]
-+ cd into this project's root directory
-+ Run `php -S localhost:8000` to start the app using the built-in development web server
-+ Access the running app in a browser at <http://localhost:8000>
 
-[PHP]: http://php.net/downloads.php
+
+Frameworks: Bootstrap 4.0
+
+
+
+Front End: HTML5 CSS3 Javascript Jquery
+
+
+
+Backend: PHP
+
+
+
+Database: SQL (MySQL RDBMS)
+       
+       
+       /*************************************************************************************/
+
